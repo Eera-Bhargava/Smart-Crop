@@ -71,12 +71,7 @@ SmartCrop transforms a smartphone or laptop into a **crop health diagnostic tool
 
 ## Demo
 
-(Add screenshots here)
-
-OR
-
-[Demo Video Link]
-
+https://drive.google.com/drive/folders/1denmrqxXd730DHKkcxOPNc9vKUqvRjeF?usp=sharing
 ---
 
 ## Results
